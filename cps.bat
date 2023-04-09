@@ -1,7 +1,7 @@
 @echo off
 
 REM Prompt the user for the cps value
-set /p cps=Enter clicks per second (cps) value : 
+set /p cps=Enter clicks per second (cps) value: 
 
 REM Generate the AutoHotkey script
 set script=clicker.ahk
